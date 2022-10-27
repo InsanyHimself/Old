@@ -19,7 +19,7 @@ pip install bs4
 
 #Commands
 
-https://github.com/InsanyHimself/Old 
+git clone https://github.com/InsanyHimself/Old 
 
 cd Old 
 
